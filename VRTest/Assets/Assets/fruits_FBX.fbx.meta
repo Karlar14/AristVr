@@ -705,7 +705,52 @@ ModelImporter:
   - first:
       74: -5187248419258813496
     second: Plane|PlaneAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 98eefeded30e14f3ea6310bbb2ae3d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 53f36e86d5c9943dc8b439b373788ba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 062f415f59f314fee8ee29109e2c912d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 748c8cca10f664ee3b610bbbd841f37d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bowl
+    second: {fileID: 2100000, guid: c530c9b64dddc421d9716673438cbdde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grapes
+    second: {fileID: 2100000, guid: a5d0b4c95b99f47a78b8ec907c4816a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_body
+    second: {fileID: 2100000, guid: b4ae0503934b4448da657e22612f8e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orange_top
+    second: {fileID: 2100000, guid: a0b8f277550164e8cad466f8596a2664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: table
+    second: {fileID: 2100000, guid: a9f22bf92ccee438fa7550ec1f8c2551, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
